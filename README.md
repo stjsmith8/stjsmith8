@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/stjsmith8/](https://www.linkedin.com/in/stjsmith8/)
 
+- 🔭 See my Tableau Portfolio https://public.tableau.com/app/profile/stephanie1407#!/?newProfile=&activeTab=0)
+
 
 <p align="left">
 </p>
