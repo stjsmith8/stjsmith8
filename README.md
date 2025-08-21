@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Stephanie</h1>
-<h3 align="center">A data scientist in the making</h3>
+<h3 align="center">A data scientist with a focus on consumer insights</h3>
 
 - 🔭 I’m currently working on **obtaining a MS in Applied Data Science from USD**
-
-- 🌱 I’m currently learning about **Data mining, Random Forests, Time Series**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stjsmith8/Data-Science-Projects](https://github.com/stjsmith8/Data-Science-Projects)
 
