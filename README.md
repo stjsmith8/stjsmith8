@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Stephanie</h1>
-<h3 align="center">A data scientist with a focus on consumer insights</h3>
 
 - 🔭 I’m currently working on **obtaining a MS in Applied Data Science from USD**
 
