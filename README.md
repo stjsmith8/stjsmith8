@@ -5,11 +5,20 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/stjsmith8/Data-Science-Projects](https://github.com/stjsmith8/Data-Science-Projects)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/stjsmith8/](https://www.linkedin.com/in/stjsmith8/)
+- 📄 Learn more about me:  https://www.notion.so/welcome-to-my-data-science-portfolio-2075d2b3ab7880fea009eaf700408b20
 
-- 🔭 See my Tableau Portfolio https://public.tableau.com/app/profile/stephanie1407#!/?newProfile=&activeTab=0)
+- 📊 See my Tableau Portfolio: https://public.tableau.com/app/profile/stephanie1407#!/?newProfile=&activeTab=0)
+  
+- 🧠 Check out my LinkedIn: https://www.linkedin.com/in/stjsmith8/
 
 
+### Core Skills:
+- Python, R, SQL, SAS
+- Statistical Modeling & Machine Learning
+- Clustering & Segmentation
+- Data Visualization (Tableau, ggplot2)
+- Program Evaluation & Applied Research
+  
 <p align="left">
 </p>
 
