@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Stephanie</h1>
 
-- 🔭 I am data scientist and researcher*
+- 🔭 I am data scientist and researcher
 
 - 👨‍💻 All of my projects are available at [https://github.com/stjsmith8/Data-Science-Projects](https://github.com/stjsmith8/Data-Science-Projects)
 
