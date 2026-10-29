@@ -23,3 +23,18 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+### 📊 Featured Projects:
+
+### 🎧 Spotify User Segmentation & Behavioral Analysis
+**Goal:** Identify distinct Spotify user segments based on demographics, listening behavior, and subscription preferences.  
+**Methods:** KModes clustering (categorical data), silhouette & elbow methods, association rule mining (support, confidence, lift).  
+**Tools:** Python, pandas, kmodes, mlxtend, matplotlib, seaborn.  
+🔗 **Repository:** [ https://github.com/stjsmith8/user-segmentation](https://github.com/stjsmith8/user-segmentation)
+
+---
+### 💳 Credit Card Customer Churn Prediction
+**Goal:** Predict customer churn and identify behavioral drivers of attrition to support proactive retention strategies.  
+**Methods:** Logistic Regression, Random Forest, XGBoost, SMOTE, feature importance, ROC/AUC analysis.  
+**Tools:** Python, scikit-learn, XGBoost, pandas, matplotlib, seaborn.  
+🔗 **Repository:** https://github.com/stjsmith8/customer-churn-prediction
